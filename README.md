@@ -8,5 +8,5 @@
 * I use Python for most of my projects.
 
 ## statistics 📊
-<img src="https://gpvc.arturio.dev/shayanheidari01" align="center" width=200 height=30  />
+<img src="https://gpvc.arturio.dev/Scorpian-my" align="center" width=200 height=30  />
 <img src="https://github-readme-stats.vercel.app/api?username=Scorpian-my&show_icons=true&count_private=true">
